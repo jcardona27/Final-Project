@@ -1,0 +1,482 @@
+[
+    {
+        "Tag": "Magic",
+        "Text": "A healer offers you a potion that could improve your health at the cost of some wealth.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 11
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -2
+            }
+        }
+    },
+    {
+        "Tag": "Health",
+        "Text": "You are ambushed by bandits on a forest road who demand payment.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 7
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -8
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "A grand feast is held in your honor at the castle.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 5
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": 4
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "A plague has struck a nearby village. Aid is requested.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 6
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": 0
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "You meet a mysterious figure who offers you a magical bargain.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 12
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -2
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "Citizens gather for a massive celebration. The mood is high and unity is strong.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 12
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": 5
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "A would-be assassin is caught lurking near your quarters. What will be their fate?",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 10
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -1
+            }
+        }
+    },
+    {
+        "Tag": "Politics",
+        "Text": "Local merchants protest new tariffs, threatening to stop trade unless demands are met.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 15
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -9
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "A fire devastates a local orphanage. Resources are requested to rebuild and care for survivors.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 5
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -3
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "A rare meteor shower draws crowds and inspires superstition across the kingdom.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 6
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": 2
+            }
+        }
+    },
+    {
+        "Tag": "Politics",
+        "Text": "A traveling mystic reveals a cryptic prophecy involving your reign.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 5
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -3
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "Nobles secretly wager on brutal duels. You are asked to attend.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 12
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": 3
+            }
+        }
+    },
+    {
+        "Tag": "Health",
+        "Text": "Inventors showcase brilliant and bizarre machines. Will the crown invest?",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 13
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -6
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "Minstrels compete in song and poetry for your favor.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 14
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -6
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "A prison riot threatens to spread beyond the walls. Guards need reinforcements.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 10
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": 3
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "Travelers speak of a dragon spotted in distant mountains. Truth or tall tale?",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 7
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -8
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "An exploration party has gone missing. Their last known location is a cursed forest.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 5
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -5
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "A high-profile political wedding is set under the full moon. Peace depends on your presence.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 6
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": 1
+            }
+        }
+    },
+    {
+        "Tag": "Health",
+        "Text": "A strange mirror is found sealed behind a wall. Whispers say it reflects futures.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 8
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -2
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "Torrential rain threatens to overflow the river. Evacuation may be necessary.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 10
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -1
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "A powerful ambassador arrives, expecting a royal welcome and negotiations.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 10
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -4
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "Your jester is accused of spreading treasonous jokes. Public is divided.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 14
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -6
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "Construction uncovers a hidden chamber beneath an ancient tomb.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 14
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -9
+            }
+        }
+    },
+    {
+        "Tag": "Disaster",
+        "Text": "A mysterious illness is spreading. Symptoms are slow and silent.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Health": 13
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -6
+            }
+        }
+    },
+    {
+        "Tag": "Politics",
+        "Text": "A bird of flame was seen rising at dawn. Locals claim it\u2019s a phoenix.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 7
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": 4
+            }
+        }
+    },
+    {
+        "Tag": "Politics",
+        "Text": "A young woman is accused of witchcraft. The villagers demand justice.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 11
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -5
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "Champion gladiators demand freedom after a rigged match.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 10
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": 2
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "Actors flee after ghostly apparitions disrupt rehearsals.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Popularity": 12
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Wealth": -7
+            }
+        }
+    },
+    {
+        "Tag": "Mystery",
+        "Text": "A master clockmaker presents a device said to predict fate by minute.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 5
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Health": -7
+            }
+        }
+    },
+    {
+        "Tag": "Economy",
+        "Text": "A derelict ship drifts into port with no crew aboard.",
+        "Yes": {
+            "Text": "You decide to act swiftly in response.",
+            "Effects": {
+                "Wealth": 15
+            }
+        },
+        "No": {
+            "Text": "You choose to wait and see what happens.",
+            "Effects": {
+                "Popularity": -5
+            }
+        }
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "eventName": "Healer's Potion Offer",
+        "date": "2025-04-23",
+        "time": "10:00",
+        "location": "Village Market",
+        "description": "A healer offers you a potion that could improve your health at the cost of some wealth."
+    },
+    {
+        "eventName": "Bandit Ambush",
+        "date": "2025-04-25",
+        "time": "15:00",
+        "location": "Forest Road",
+        "description": "You are ambushed by bandits on a forest road who demand payment."
+    },
+    {
+        "eventName": "Royal Feast",
+        "date": "2025-05-01",
+        "time": "19:00",
+        "location": "Castle Great Hall",
+        "description": "A grand feast is held in your honor at the castle."
+    },
+    {
+        "eventName": "Village Plague",
+        "date": "2025-05-10",
+        "time": "08:00",
+        "location": "Riverside Village",
+        "description": "A plague has struck a nearby village. Aid is requested."
+    },
+    {
+        "eventName": "Mystical Encounter",
+        "date": "2025-05-15",
+        "time": "00:00",
+        "location": "Ancient Ruins",
+        "description": "You meet a mysterious figure who offers you a magical bargain."
+    },
+    {
+        "eventName": "Festival of Lights",
+        "date": "2025-05-20",
+        "time": "20:00",
+        "location": "Capital Plaza",
+        "description": "Citizens gather for a massive celebration. The mood is high and unity is strong."
+    },
+    {
+        "eventName": "Assassin in the Shadows",
+        "date": "2025-05-22",
+        "time": "02:00",
+        "location": "Royal Chambers",
+        "description": "A would-be assassin is caught lurking near your quarters. What will be their fate?"
+    },
+    {
+        "eventName": "Merchant's Rebellion",
+        "date": "2025-05-25",
+        "time": "14:30",
+        "location": "Market District",
+        "description": "Local merchants protest new tariffs, threatening to stop trade unless demands are met."
+    },
+    {
+        "eventName": "Orphanage Fire",
+        "date": "2025-05-27",
+        "time": "04:15",
+        "location": "South Quarter",
+        "description": "A fire devastates a local orphanage. Resources are requested to rebuild and care for survivors."
+    },
+    {
+        "eventName": "Meteor Shower",
+        "date": "2025-05-30",
+        "time": "23:00",
+        "location": "Night Sky",
+        "description": "A rare meteor shower draws crowds and inspires superstition across the kingdom."
+    },
+    {
+        "eventName": "Mystic's Prophecy",
+        "date": "2025-06-01",
+        "time": "12:00",
+        "location": "Temple of Whispers",
+        "description": "A traveling mystic reveals a cryptic prophecy involving your reign."
+    },
+    {
+        "eventName": "Underground Duel",
+        "date": "2025-06-03",
+        "time": "22:00",
+        "location": "Hidden Arena",
+        "description": "Nobles secretly wager on brutal duels. You are asked to attend."
+    },
+    {
+        "eventName": "Invention Fair",
+        "date": "2025-06-05",
+        "time": "11:00",
+        "location": "Inventors' Hall",
+        "description": "Inventors showcase brilliant and bizarre machines. Will the crown invest?"
+    },
+    {
+        "eventName": "Bards' Tournament",
+        "date": "2025-06-07",
+        "time": "18:00",
+        "location": "Courtyard Stage",
+        "description": "Minstrels compete in song and poetry for your favor."
+    },
+    {
+        "eventName": "Prison Riot",
+        "date": "2025-06-09",
+        "time": "03:00",
+        "location": "Ironhold Prison",
+        "description": "A prison riot threatens to spread beyond the walls. Guards need reinforcements."
+    },
+    {
+        "eventName": "Dragon Rumors",
+        "date": "2025-06-11",
+        "time": "16:00",
+        "location": "Far Reaches",
+        "description": "Travelers speak of a dragon spotted in distant mountains. Truth or tall tale?"
+    },
+    {
+        "eventName": "Lost Expedition",
+        "date": "2025-06-13",
+        "time": "07:00",
+        "location": "Northern Wilds",
+        "description": "An exploration party has gone missing. Their last known location is a cursed forest."
+    },
+    {
+        "eventName": "Moonlit Wedding",
+        "date": "2025-06-15",
+        "time": "21:00",
+        "location": "Royal Gardens",
+        "description": "A high-profile political wedding is set under the full moon. Peace depends on your presence."
+    },
+    {
+        "eventName": "Cursed Mirror",
+        "date": "2025-06-17",
+        "time": "01:00",
+        "location": "Castle Vault",
+        "description": "A strange mirror is found sealed behind a wall. Whispers say it reflects futures."
+    },
+    {
+        "eventName": "Flood Warning",
+        "date": "2025-06-19",
+        "time": "06:00",
+        "location": "Riverbend Village",
+        "description": "Torrential rain threatens to overflow the river. Evacuation may be necessary."
+    },
+    {
+        "eventName": "Foreign Dignitary Visit",
+        "date": "2025-06-21",
+        "time": "10:30",
+        "location": "Royal Courtyard",
+        "description": "A powerful ambassador arrives, expecting a royal welcome and negotiations."
+    },
+    {
+        "eventName": "Jester's Scandal",
+        "date": "2025-06-23",
+        "time": "12:30",
+        "location": "Throne Room",
+        "description": "Your jester is accused of spreading treasonous jokes. Public is divided."
+    },
+    {
+        "eventName": "Buried Secrets",
+        "date": "2025-06-25",
+        "time": "08:00",
+        "location": "Old Cemetery",
+        "description": "Construction uncovers a hidden chamber beneath an ancient tomb."
+    },
+    {
+        "eventName": "Silent Outbreak",
+        "date": "2025-06-27",
+        "time": "07:45",
+        "location": "Border Town",
+        "description": "A mysterious illness is spreading. Symptoms are slow and silent."
+    },
+    {
+        "eventName": "Phoenix Sighted",
+        "date": "2025-06-29",
+        "time": "05:30",
+        "location": "Sacred Cliffs",
+        "description": "A bird of flame was seen rising at dawn. Locals claim it\u2019s a phoenix."
+    },
+    {
+        "eventName": "Witch Trial",
+        "date": "2025-07-01",
+        "time": "13:00",
+        "location": "Village Square",
+        "description": "A young woman is accused of witchcraft. The villagers demand justice."
+    },
+    {
+        "eventName": "Gladiator's Revolt",
+        "date": "2025-07-03",
+        "time": "14:00",
+        "location": "Fighting Pits",
+        "description": "Champion gladiators demand freedom after a rigged match."
+    },
+    {
+        "eventName": "Haunted Theater",
+        "date": "2025-07-05",
+        "time": "19:00",
+        "location": "Crimson Stage",
+        "description": "Actors flee after ghostly apparitions disrupt rehearsals."
+    },
+    {
+        "eventName": "Clockmaker's Timepiece",
+        "date": "2025-07-07",
+        "time": "11:00",
+        "location": "Guild Hall",
+        "description": "A master clockmaker presents a device said to predict fate by minute."
+    },
+    {
+        "eventName": "Ghost Ship",
+        "date": "2025-07-09",
+        "time": "03:30",
+        "location": "Harbor Bay",
+        "description": "A derelict ship drifts into port with no crew aboard."
+    }
+]
