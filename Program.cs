@@ -1,10 +1,13 @@
 ﻿using System;
-using System.Threading.Tasks;
 
-class Program
+namespace FinalProjectGame
 {
-    static async Task Main(string[] args)
+    class Program
     {
-        await GameEngine.Instance.StartGameAsync();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("TEST: If you see this, Main() is working.");
+        }
     }
 }
+
